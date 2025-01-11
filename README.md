@@ -1,2 +1,6 @@
-# csd-380
+# csd-380 DevOps
 DevOps Repository 
+
+##Contributors:
+..*Professor Braun
+..*Violet Gonzalez
