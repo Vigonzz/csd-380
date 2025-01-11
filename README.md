@@ -2,5 +2,5 @@
 DevOps Repository 
 
 ## Contributors:
-..* Professor Braun
-..* Violet Gonzalez
+    * Professor Braun
+    * Violet Gonzalez
